@@ -1,5 +1,5 @@
 package asteroidJenkins;
-// testing 3
+// testing with asteroid jenkins project
 import static org.junit.Assert.*;
 import org.junit.Test;
 import org.psnbtech.Game;
