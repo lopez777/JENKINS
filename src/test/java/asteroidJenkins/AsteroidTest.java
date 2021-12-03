@@ -8,8 +8,10 @@ public class AsteroidTest {
 
 	@Test
 	public void testGetHello() {
-		Game g = new Game();
-		assertEquals("Testing hello with Jenkins!", g.getHello());
+		
+// 		Game g = new Game();
+// 		assertEquals("Testing hello with Jenkins!", g.getHello());
+		fails("This is just to show what a failed test case looks like!");
 	}
 
 }
