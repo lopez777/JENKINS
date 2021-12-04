@@ -1,5 +1,5 @@
 package asteroidJenkins;
-// testing email noti for multiple recipients
+// testing email noti for multiple recipientss
 import static org.junit.Assert.*;
 import org.junit.Test;
 import org.psnbtech.Game;
