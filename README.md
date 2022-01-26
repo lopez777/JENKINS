@@ -1,2 +1,2 @@
 # jenkins
-Using Jenkins for the continuous integration of a asteroid game.
+Using Jenkins for the continuous integration of an asteroid game.
